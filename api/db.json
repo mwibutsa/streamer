@@ -1,0 +1,26 @@
+{
+  "streams": [
+    {
+      "title": "Stream",
+      "description": "Without user",
+      "id": 2
+    },
+    {
+      "title": "Hi reusable form Edited",
+      "description": "This form is Entirely reusable!",
+      "id": 5
+    },
+    {
+      "title": "Fake stream",
+      "description": "Hi fake stream! where the hell have you been man??",
+      "userId": "102695373066494472749",
+      "id": 6
+    },
+    {
+      "title": "Some streams have been deleted",
+      "description": "The delete Stream functionality is up and running! Watch me doing it from scratch.",
+      "userId": "102695373066494472749",
+      "id": 7
+    }
+  ]
+}
